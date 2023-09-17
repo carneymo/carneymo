@@ -4,16 +4,17 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-46a2f1?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-45b8ff?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-46a2f1?style=flat-square&logo=electron&logoColor=white" />
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-1a73e8?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-1a73e8?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007A99?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-5849BE?style=flat-square&logo=php&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-311C87?style=flat-square&logo=ansible&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-430098?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-764ABC?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Nintendo" src="https://img.shields.io/badge/-Nintendo-B7178C?style=flat-square&logo=nintendo&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -27,6 +28,8 @@
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-EC4A3F?style=flat-square&logo=linux&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F7B9777?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-F7B9777?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-13aa52?style=flat-square&logo=elastic&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
