@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ryan Carney-Mogan, Engineering Manager and Programming hobbiest from <img src="https://github.com/carneymo/carneymo/blob/master/colorado-flag-512.png" width="13"/> <b>Colorado, USA</b>. As an engineering manager, I don't get to program as much as I'd like to anymore, but play with code repos on occasion!</p>
+<p>Welcome to my page! </br> I'm Ryan Carney-Mogan, Engineering Manager and Programming hobbiest from <img src="https://github.com/carneymo/carneymo/blob/master/colorado-flag-512.png" width="13"/> <b>Colorado, USA</b>. As an engineering manager, I don't get to program as much as I'd like to anymore, but try to play with code repos on occasion!</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
